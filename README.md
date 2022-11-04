@@ -37,3 +37,5 @@ However, it is important to note that Hawaii experiences a storm season that las
 At this time I would highly suggest further research into precipitation and temperature correlations for the whole year. I would also suggest that other months are examined - such as March and September - to see if temperatures fluctuate during other seasons of the year. 
 
 ---
+## Additional Flask API
+Just for fun: To view a list of temperatures based on date input, view and run "app2.py". 
