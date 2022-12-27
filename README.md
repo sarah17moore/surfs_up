@@ -1,5 +1,5 @@
 # surfs_up
-A classwork example researching weather data using SQL
+A classwork example researching weather data using SQL with SQLite and SQLAlchemy
 
 ---
 
