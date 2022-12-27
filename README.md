@@ -1,4 +1,4 @@
-# surfs_up
+# Surfs Up: Advanced Data Storage and Retrieval with SQL
 A classwork example researching weather data using SQL with SQLite and SQLAlchemy
 
 ---
